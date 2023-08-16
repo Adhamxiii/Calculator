@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculator 🧮</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body id="body">
+    <div class="calculator">
+      <div class="header">
+        <div class="switch-mode">
+          <label for="mode">Dark Mode</label>
+          <input type="checkbox" id="mode" />
+          <span class="slider round"></span>
+        </div>
+        <button data-delete class="delete">
+          <i class="fas fa-trash"></i>
+          Delete
+        </button>
+      </div>
+
+      <div class="display">
+        <p data-previous-operand class="history"></p>
+        <p>=</p>
+        <p data-current-operand class="result">0</p>
+      </div>
+
+      <div class="buttons">
+        <button data-all-clear class="button clear">C</button>
+        <button data-percent class="button percent">%</button>
+        <button data-plus-minus class="button plus_minus">+/-</button>
+        <button data-operation class="button divided">/</button>
+        <button data-number class="button seven">7</button>
+        <button data-number class="button eight">8</button>
+        <button data-number class="button nine">9</button>
+        <button data-operation class="button multiplied">*</button>
+        <button data-number class="button four">4</button>
+        <button data-number class="button five">5</button>
+        <button data-number class="button six">6</button>
+        <button data-operation class="button minus">-</button>
+        <button data-number class="button one">1</button>
+        <button data-number class="button two">2</button>
+        <button data-number class="button three">3</button>
+        <button data-operation class="button plus">+</button>
+        <button data-number class="button zero">0</button>
+        <button data-number class="button dot">.</button>
+        <button data-equals class="button equal">=</button>
+      </div>
+    </div>
+    <script
+      src="https://kit.fontawesome.com/f0f47bfbb1.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
