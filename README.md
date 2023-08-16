@@ -27,7 +27,7 @@ This is a simple web-based calculator application built using HTML, CSS, and Jav
 
 ## Live Demo
 
-Check out the live demo of the calculator: [Calculator Demo](https://your-username.github.io/calculator-demo)
+Check out the live demo of the calculator: [Calculator Demo](https://calculator-ivory-six.vercel.app/)
 
 ## Technologies Used
 
@@ -41,6 +41,6 @@ Check out the live demo of the calculator: [Calculator Demo](https://your-userna
 
 Contributions to this calculator project are welcome! Here are a few ways you can contribute:
 
-- Report issues or suggest enhancements through [GitHub Issues](https://github.com/your-username/calculator/issues).
+- Report issues or suggest enhancements through [GitHub Issues](https://github.com/Adham-XIII/Calculator/issues).
 - Fork the repository and create a pull request to suggest changes.
 
