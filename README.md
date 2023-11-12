@@ -29,7 +29,7 @@ This is a simple web-based calculator application built using HTML, CSS, and Jav
 
 ## Live Demo
 
-Check out the live demo of the calculator: [Calculator Demo](#)
+Check out the live demo of the calculator: [Calculator Demo](https://calculator-five-kohl.vercel.app/)
 
 ## Technologies Used
 
