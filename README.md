@@ -4,12 +4,14 @@ This is a simple web-based calculator application built using HTML, CSS, and Jav
 
 ## Table of Contents
 
-- [Features](#features)
-- [Usage](#usage)
-- [Live Demo](#live-demo)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+- [Calculator 🧮](#calculator-)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Usage](#usage)
+  - [Live Demo](#live-demo)
+  - [Technologies Used](#technologies-used)
+  - [Contributing](#contributing)
+  - [Contact Information](#contact-information)
 
 ## Features
 
@@ -27,7 +29,7 @@ This is a simple web-based calculator application built using HTML, CSS, and Jav
 
 ## Live Demo
 
-Check out the live demo of the calculator: [Calculator Demo](https://calculator-ivory-six.vercel.app/)
+Check out the live demo of the calculator: [Calculator Demo](#)
 
 ## Technologies Used
 
@@ -39,8 +41,12 @@ Check out the live demo of the calculator: [Calculator Demo](https://calculator-
 
 ## Contributing
 
-Contributions to this calculator project are welcome! Here are a few ways you can contribute:
+If you would like to contribute to this project, feel free to submit a pull request or open an issue.
 
-- Report issues or suggest enhancements through [GitHub Issues](https://github.com/Adham-XIII/Calculator/issues).
-- Fork the repository and create a pull request to suggest changes.
+## Contact Information
 
+If you have any questions or need assistance, you can reach out to the project author:
+
+- Email: [Adham Nasser](mailto:adhamxiii22@gmail.com)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamxiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
